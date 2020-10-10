@@ -1,0 +1,997 @@
+[   
+    {
+        "regione": "All",
+		"total" : 3805,
+		"sub_regione" : [
+                         { 
+                            "provincia" : "ABRUZZO",
+                            "terra" : 292,
+                            "marre" : 1,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },
+                         { 
+                            "provincia" : "BASILICATA",
+                            "terra" : 211,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "CALABRIA",
+                            "terra" : 44,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "CAMPANIA",
+                            "terra" : 150,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 1
+                         },{ 
+                            "provincia" : "EMILIA ROMAGNA",
+                            "terra" : 561,
+                            "marre" : 0,
+                            "acqua_interne" : 1,
+                            "non_indicato" : 3
+                         },{ 
+                            "provincia" : "FRIULI V.G.",
+                            "terra" : 5,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "LAZIO",
+                            "terra" : 156,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "LOMBARDIA",
+                            "terra" : 347,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 1
+                         },{ 
+                            "provincia" : "MARCHE",
+                            "terra" : 108,
+                            "marre" : 1,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "MARE",
+                            "terra" : 4,
+                            "marre" : 423,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "MOLISE",
+                            "terra" : 142,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "PIEMONTE",
+                            "terra" : 46,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "PUGLIA",
+                            "terra" : 183,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "SARDEGNA",
+                            "terra" : 36,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "SICILIA",
+                            "terra" : 266,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 1
+                         },{ 
+                            "provincia" : "TOSCANA",
+                            "terra" : 774,
+                            "marre" : 0,
+                            "acqua_interne" : 1,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "TRENTINO A.A.",
+                            "terra" : 1,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "UMBRIA",
+                            "terra" : 4,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         },{ 
+                            "provincia" : "VENETO",
+                            "terra" : 43,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                         }
+                        ],
+		"max_quota" : 2947.0,
+		"min_quota" : -1201.5,
+		"max_prof" : 7810.0,
+		"min_prof" : 0.0,
+		"terra" : 3365,
+		"marre" : 423,
+		"acqua_interne" : 2,
+		"non_indicato" : 6
+	},
+	{
+        "regione" : "ABRUZZO",
+        "total" : 293,
+        "sub_regione" : [
+                        { 
+                            "provincia" : "CHIETI",
+                            "terra" : 107,
+                            "marre" : 1,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                        },
+                        { 
+                            "provincia" : "L'AQUILA",
+                            "terra" : 6,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                        },
+                        { 
+                            "provincia" : "PESCARA",
+                            "terra" : 103,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                        },
+                        { 
+                            "provincia" : "TERAMO",
+                            "terra" : 76,
+                            "marre" : 0,
+                            "acqua_interne" : 0,
+                            "non_indicato" : 0
+                        }
+                    ],
+		"max_quota" : 1525,
+		"min_quota" : -5.3,
+		"max_prof" : 6907,
+		"min_prof" : 0,
+		"terra" : 0,
+		"marre" : 1,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "BASILICATA",
+        "total" : 211,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "MATERA",
+                                "terra" : 145,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "POTENZA",
+                                "terra" : 66,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 1443,
+		"min_quota" : 0,
+		"max_prof" : 5530,
+		"min_prof" : 0,
+		"terra" : 211,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	
+	{
+        "regione": "CALABRIA",
+        "total" : 44,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "CATANZARO",
+                                "terra" : 26,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "COSENZA",
+                                "terra" : 18,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 605,
+		"min_quota" : -22,
+		"max_prof" : 5079,
+		"min_prof" : 497,
+		"terra" : 44,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "CAMPANIA",
+		"total" : 151,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "AVELLINO",
+                                "terra" : 25,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "BENEVENTO",
+                                "terra" : 17,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "CASERTA",
+                                "terra" : 19,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "NAPOLI",
+                                "terra" : 77,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 1
+                            },
+                            { 
+                                "provincia" : "SALERNO",
+                                "terra" : 11,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "TRAPANI",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 985,
+		"min_quota" : 0,
+		"max_prof" : 5400,
+		"min_prof" : 0,
+		"terra" : 150,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 1
+	},
+	{
+        "regione": "EMILIA ROMAGNA",
+		"total" : 565,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "BOLOGNA",
+                                "terra" : 116,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "FERRARA",
+                                "terra" : 115,
+                                "marre" : 0,
+                                "acqua_interne" : 1,
+                                "non_indicato" : 1
+                            },
+                            { 
+                                "provincia" : "FORLI'",
+                                "terra" : 21,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "MODENA",
+                                "terra" : 61,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 1
+                            },
+                            { 
+                                "provincia" : "PARMA",
+                                "terra" : 60,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "PIACENZA",
+                                "terra" : 54,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "RAVENNA",
+                                "terra" : 95,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "REGGIO EMILIA",
+                                "terra" : 39,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 1
+                            }
+                            
+                        ],
+		"max_quota" : 771,
+		"min_quota" : -2.2,
+		"max_prof" : 6506,
+		"min_prof" : 0,
+		"terra" : 561,
+		"marre" : 0,
+		"acqua_interne" : 1, 
+		"non_indicato" : 3
+	},
+	{
+        "regione": "FRIULI V.G.",
+		"total" : 5,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "TRIESTE",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "UDINE",
+                                "terra" : 4,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 700,
+		"min_quota" : 54,
+		"max_prof" : 7250,
+		"min_prof" : 0,
+		"terra" : 5,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "LAZIO",
+		"total" : 156,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "FROSINONE",
+                                "terra" : 10,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "LATINA",
+                                "terra" : 12,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "RIETI",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ROMA",
+                                "terra" : 52,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "TERNI",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "VITERBO",
+                                "terra" : 80,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+
+                        ],
+		"max_quota" : 1160,
+		"min_quota" : 0,
+		"max_prof" : 5766,
+		"min_prof" : 0,
+		"terra" : 156,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "LOMBARDIA",
+		"total" : 348,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "BERGAMO",
+                                "terra" : 28,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 1
+                            },
+                            { 
+                                "provincia" : "BRESCIA",
+                                "terra" : 59,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "COMO",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "CREMONA",
+                                "terra" : 94,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "MANTOVA",
+                                "terra" : 7,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "MILANO",
+                                "terra" : 127,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "PAVIA",
+                                "terra" : 30,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "VARESE",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 665,
+		"min_quota" : 0,
+		"max_prof" : 7271,
+		"min_prof" : 0,
+		"terra" : 347,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 1
+	},
+	{
+        "regione": "MARCHE",
+		"total" : 109,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "ANCONA",
+                                "terra" : 33,
+                                "marre" : 1,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ASCOLI PICENO",
+                                "terra" : 41,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "MACERATA",
+                                "terra" : 30,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "PESARO",
+                                "terra" : 4,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 624,
+		"min_quota" : 0,
+		"max_prof" : 4697.95,
+		"min_prof" : 0,
+		"terra" : 108,
+		"marre" : 1,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "MARE",
+		"total" : 427,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "MARE",
+                                "terra" : 4,
+                                "marre" : 423,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 133.5,
+		"min_quota" : -1201.5,
+		"max_prof" : 7280.37,
+		"min_prof" : 0,
+		"terra" : 4,
+		"marre" : 423,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "MOLISE",
+		"total" : 142,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "CAMPOBASSO",
+                                "terra" : 134,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ISERNIA",
+                                "terra" : 8,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 1295,
+		"min_quota" : 2,
+		"max_prof" : 5680,
+		"min_prof" : 211,
+		"terra" : 142,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "PIEMONTE",
+		"total" : 46,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "ALESSANDRIA",
+                                "terra" : 11,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ASTI",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "CUNEO",
+                                "terra" : 4,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "NOVARA",
+                                "terra" : 17,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "TORINO",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "VERCELLI",
+                                "terra" : 10,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 766,
+		"min_quota" : 112,
+		"max_prof" : 6694,
+		"min_prof" : 0,
+		"terra" : 46,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "PUGLIA",
+		"total" : 183,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "BARI",
+                                "terra" : 3,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "BRINDISI",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "FOGGIA",
+                                "terra" : 178,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "LECCE",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 870,
+		"min_quota" : 0,
+		"max_prof" : 7070,
+		"min_prof" : 432,
+		"terra" : 183,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "SARDEGNA",
+		"total" : 36,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "CAGLIARI",
+                                "terra" : 16,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "NUORO",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ORISTANO",
+                                "terra" : 5,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "SASSARI",
+                                "terra" : 13,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 735,
+		"min_quota" : 2,
+		"max_prof" : 1802,
+		"min_prof" : 0,
+		"terra" : 36,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "SICILIA",
+		"total" : 267,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "AGRIGENTO",
+                                "terra" : 17,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "CALTANISSETTA",
+                                "terra" : 31,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "CATANIA",
+                                "terra" : 60,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ENNA",
+                                "terra" : 48,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "MESSINA",
+                                "terra" : 16,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "PALERMO",
+                                "terra" : 17,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "RAGUSA",
+                                "terra" : 29,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "SIRACUSA",
+                                "terra" : 17,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 1
+                            },
+                            { 
+                                "provincia" : "TRAPANI",
+                                "terra" : 31,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 2947,
+		"min_quota" : 0,
+		"max_prof" : 5910,
+		"min_prof" : 63.6,
+		"terra" : 264,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 1
+	},
+	{
+        "regione": "TOSCANA",
+		"total" : 774,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "AREZZO",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "FIRENZE",
+                                "terra" : 12,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "GROSSETO",
+                                "terra" : 153,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "LIVORNO",
+                                "terra" : 5,
+                                "marre" : 0,
+                                "acqua_interne" : 1,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "LUCCA",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "MASSA",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "PISA",
+                                "terra" : 467,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "SIENA",
+                                "terra" : 130,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+
+                        ],
+		"max_quota" : 1080,
+		"min_quota" : 0,
+		"max_prof" : 7810,
+		"min_prof" : 0,
+		"terra" : 773,
+		"marre" : 0,
+		"acqua_interne" : 1, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "TRENTINO A.A.",
+		"total" : 1,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "TRENTO",
+                                "terra" : 1,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 471,
+		"min_quota" : 0,
+		"max_prof" : 2061.6,
+		"min_prof" : 0,
+		"terra" : 1,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "UMBRIA",
+		"total" : 4,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "PERUGIA",
+                                "terra" : 4,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 670,
+		"min_quota" : 345,
+		"max_prof" : 5600,
+		"min_prof" : 231,
+		"terra" : 4,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+	},
+	{
+        "regione": "VENETO",
+		"total" : 43,
+        "sub_regione" : [
+                            { 
+                                "provincia" : "BELLUNO",
+                                "terra" : 2,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "PADOVA",
+                                "terra" : 4,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "ROVIGO",
+                                "terra" : 7,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "TREVISO",
+                                "terra" : 9,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "VENEZIA",
+                                "terra" : 14,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "VERONA",
+                                "terra" : 4,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            },
+                            { 
+                                "provincia" : "VICENZA",
+                                "terra" : 3,
+                                "marre" : 0,
+                                "acqua_interne" : 0,
+                                "non_indicato" : 0
+                            }
+                        ],
+		"max_quota" : 474,
+		"min_quota" : 0,
+		"max_prof" : 4982,
+		"min_prof" : 0,
+		"terra" : 43,
+		"marre" : 0,
+		"acqua_interne" : 0, 
+		"non_indicato" : 0
+    }
+]
